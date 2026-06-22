@@ -27,7 +27,7 @@ export default function Home() {
       <header className="fixed w-full top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
         <div className="container flex items-center justify-between h-20">
           <div className="flex items-center gap-2">
-            <img src="/logo.png" alt="ARYA PROMOTORA" className="h-12" />
+            <img src="/assets/logo.png" alt="ARYA PROMOTORA" className="h-12" />
           </div>
 
           {/* Desktop Menu */}
@@ -96,7 +96,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="flex justify-center">
               <img
-                src="/logo.png"
+                src="/assets/logo.png"
                 alt="ARYA PROMOTORA"
                 className="w-64 h-auto"
               />
@@ -110,7 +110,7 @@ export default function Home() {
                 Busca uma solução financeira com taxas competitivas e aprovação simplificada? Se você é aposentado, pensionista do INSS ou servidor público, nossos serviços são para você.
               </p>
               <p className="text-sm text-gray-400 mb-6">
-                CNPJ: 62.651.578/0001-65
+                CNPJ: 55.217.867/0001-95
               </p>
               <div className="flex gap-4 flex-wrap">
                 <button
@@ -268,28 +268,28 @@ export default function Home() {
         <div className="container">
           <div className="grid md:grid-cols-4 gap-8 mb-12">
             <div>
-              <img src="/logo.png" alt="ARYA" className="w-32 mb-4" />
+              <img src="/assets/logo.png" alt="ARYA" className="w-32 mb-4" />
             </div>
             <div>
               <h4 className="font-semibold mb-4 text-accent">Endereço</h4>
               <a
-                href="https://www.google.com/maps?q=AV+Waldemar+carlos+pereira,+975,+Vilatalarico"
+                href="https://www.google.com/maps?q=Rua+Quixabeira,+237,+JardimSantaMaria"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-accent transition text-sm"
               >
-                Av. Waldemar Carlos Pereira, 975<br />
-                Vila Matilde, SP<br />
-                CEP: 03533-001
+                Rua Quixabeira, 237<br />
+                São Paulo, SP<br />
+                CEP: 03574-080
               </a>
             </div>
             <div>
               <h4 className="font-semibold mb-4 text-accent">Contato</h4>
               <a href="tel:+551126149766" className="text-gray-300 hover:text-accent transition block text-sm mb-2">
-                (13) 8202-6303
+                (11) 2783-2053
               </a>
-              <a href="mailto:giovanabortaliero13@gmail.com" className="text-gray-300 hover:text-accent transition text-sm">
-                giovanabortaliero13@gmail.com
+              <a href="mailto:eduardomurtada@gmail.com" className="text-gray-300 hover:text-accent transition text-sm">
+                eduardomurtada@gmail.com
               </a>
             </div>
             <div>
@@ -315,7 +315,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-border pt-8 text-center text-gray-400 text-sm">
-            <p>© 2026 ARYA PROMOTORA. Todos os direitos reservados. CNPJ: 62.651.578/0001-65</p>
+            <p>© 2026 ARYA PROMOTORA. Todos os direitos reservados. CNPJ: 55.217.867/0001-95</p>
             <a href="https://www.gov.br/mds/pt-br/acesso-a-informacao/privacidade-e-protecao-de-dados/lgpd" className="hover:text-accent transition mt-2 inline-block">
               Política de Privacidade / LGPD
             </a>
