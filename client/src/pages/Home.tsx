@@ -27,7 +27,7 @@ export default function Home() {
       <header className="fixed w-full top-0 z-50 bg-background/95 backdrop-blur border-b border-border">
         <div className="container flex items-center justify-between h-20">
           <div className="flex items-center gap-2">
-            <img src="/manus-storage/AryaREMOVE_f1cb114f.png" alt="ARYA PROMOTORA" className="h-12" />
+            <img src="/logo.png" alt="ARYA PROMOTORA" className="h-12" />
           </div>
 
           {/* Desktop Menu */}
@@ -96,7 +96,7 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="flex justify-center">
               <img
-                src="/manus-storage/SemFundoSmall_38ca1c3d.png"
+                src="/logo.png"
                 alt="ARYA PROMOTORA"
                 className="w-64 h-auto"
               />
@@ -268,7 +268,7 @@ export default function Home() {
         <div className="container">
           <div className="grid md:grid-cols-4 gap-8 mb-12">
             <div>
-              <img src="/manus-storage/SemFundoSmall_38ca1c3d.png" alt="ARYA" className="w-32 mb-4" />
+              <img src="/logo.png" alt="ARYA" className="w-32 mb-4" />
             </div>
             <div>
               <h4 className="font-semibold mb-4 text-accent">Endereço</h4>
